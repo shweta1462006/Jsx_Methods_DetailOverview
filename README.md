@@ -1,3 +1,1 @@
-# React + Vite
-
-twinkle pal
+Shweta_June
