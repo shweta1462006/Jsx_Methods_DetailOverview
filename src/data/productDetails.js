@@ -1,0 +1,18 @@
+export const productRecords = [
+  { id: 1, name: "Bread", category: "food", price: 40 },
+  { id: 2, name: "Jeans", category: "clothing", price: 1200 },
+  { id: 3, name: "Sofa", category: "furniture", price: 22000 },
+  { id: 4, name: "Smartphone", category: "electronics", price: 15000 },
+  { id: 5, name: "Notebook", category: "stationery", price: 30 },
+  { id: 6, name: "Pen", category: "stationery", price: 10 },
+  { id: 7, name: "Laptop", category: "electronics", price: 45000 },
+  { id: 8, name: "T-Shirt", category: "clothing", price: 800 },
+  { id: 9, name: "Desk Lamp", category: "home decor", price: 1500 },
+  { id: 10, name: "Milk", category: "food", price: 50 },
+  { id: 11, name: "Coffee Maker", category: "kitchen", price: 3500 },
+  { id: 12, name: "Headphones", category: "electronics", price: 2500 },
+  { id: 13, name: "Eggs", category: "food", price: 60 },
+  { id: 14, name: "Shoes", category: "footwear", price: 3000 },
+  { id: 15, name: "Pizza", category: "food", price: 235 },
+  { id: 16, name: "Chair", category: "furniture", price: 5000 },
+];

@@ -1,0 +1,9 @@
+.noteItem{
+   width: 40%;
+   margin: 20px  auto;
+   background-color: rgb(233, 233, 89);
+   padding: 30px;
+   border-radius: 3%;
+   font-size: x-large;
+}
+
